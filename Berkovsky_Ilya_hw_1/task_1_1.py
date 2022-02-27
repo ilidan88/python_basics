@@ -1,4 +1,4 @@
-
+# Задание 1
 
 duration = [53, 153, 4153, 400153]
 for i in duration:

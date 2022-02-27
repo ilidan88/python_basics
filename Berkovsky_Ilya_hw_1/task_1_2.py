@@ -1,4 +1,4 @@
-
+# Задание 2
 
 def list_divided_by_seven(data_list: list):
     sum_divided_by_seven = 0
