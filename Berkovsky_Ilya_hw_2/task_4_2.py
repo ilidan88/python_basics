@@ -9,3 +9,5 @@ name_list = ['инженер-конструктор Игорь', 'главный
 for name in name_list:
     name = name.split( )[-1]
     print(f'Привет, {name.title()}!')
+
+#fff

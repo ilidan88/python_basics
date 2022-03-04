@@ -19,3 +19,5 @@ for (index, i) in enumerate(my_list):
             my_list[index] = f'"{"0" + i}"'
 
 print(" ".join(my_list))
+
+#fff
