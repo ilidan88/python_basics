@@ -7,3 +7,5 @@ expression_list = [15 * 3,
 
 for expression in expression_list:
     print(type(expression))
+
+#fff
